@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/akbar-eka-putra-82a468243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://akbarekaputra01.github.io" target="_blank">
+  <a href="https://akbarekaputra01-portfolio.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/akbarekaputra01/" target="_blank">
@@ -68,12 +68,12 @@
 
 <br/><br/>
 
-<hr/>
+<!-- <hr/>
 
 <br/>
 
 <div align="center">
 <a href='buymeacoffee.com/akbarekaputra01' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+</div> -->
 
 <br/>
