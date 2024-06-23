@@ -30,7 +30,7 @@
   <a href="https://akbarekaputra01-portfolio.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/akbarekaputra01" target="_blank">
+  <a href="https://www.instagram.com/akbarekaputra01/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-8E24AA?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
 </div>
